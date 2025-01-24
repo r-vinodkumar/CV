@@ -1,5 +1,7 @@
 # CV (Curriculum Vitae)
 
+Project URL: https://r-vinodkumar.github.io/CV/
+
 My first ever project without any help. Please give me the feedback.
 
 I also published this page on GitHub pages [link](https://r-vinodkumar.github.io/CV/)
