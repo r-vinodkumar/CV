@@ -1,6 +1,8 @@
 # CV (Curriculum Vitae)
 
-Project URL: https://r-vinodkumar.github.io/CV/
+Project URL: https://roadmap.sh/projects/single-page-cv
+
+Solution URL: https://r-vinodkumar.github.io/CV/
 
 My first ever project without any help. Please give me the feedback.
 
